@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in at Stony Brook University, advised by Kenji Fukaya. 
+I am a Ph.D. student in at Stony Brook University, advised by <a href="https://scgp.stonybrook.edu/people/faculty/bios/kenji-fukaya">Kenji Fukaya</a>. 
 
 I am on the job market this fall for postdoctoral positions.
 
