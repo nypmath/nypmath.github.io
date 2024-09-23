@@ -4,21 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in at Stony Brook University, advised by <a href="https://scgp.stonybrook.edu/people/faculty/bios/kenji-fukaya">Kenji Fukaya</a>. 
+I am a Ph.D. student at Stony Brook University, advised by <a href="https://scgp.stonybrook.edu/people/faculty/bios/kenji-fukaya">Kenji Fukaya</a>. 
 
 I am on the job market this fall for postdoctoral positions.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Computer Vision:** Symplectic geometry, low-dimensional topology, gauge theory and mirror symmetry
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## Papers
-Project: Monoidal Strucutres on Fukaya Categories
-- **[Feb. 2020]** with Mohammed Abouzaid and Nate Bottman  
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+My Research Statement can be found here. 
+- A Monoidal Structure on the Fukaya Category of Elliptic K3s. <em>In preparation</em>.
+- A Monoidal Structure on Exact Fukaya Categories (with Mohammed Abouzaid and Nathaniel Bottman). <em>In preparation</em>.
+- The Focus-Focus Addition Graph is Immersed (with Mohammed Abouzaid and Nathaniel Bottman), <a href="https://arxiv.org/abs/2409.10377">arxiv 2409.10377</a>
+
+
 
 {% include_relative _includes/publications.md %}
 
