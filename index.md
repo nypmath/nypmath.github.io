@@ -14,7 +14,7 @@ I am on the job market this fall for postdoctoral positions.
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## Papers
-My Research Statement can be found here. 
+My Research Statement can be found here (updated Sep 2024). 
 - A Monoidal Structure on the Fukaya Category of Elliptic K3s. <em>In preparation</em>.
 - A Monoidal Structure on Exact Fukaya Categories (with Mohammed Abouzaid and Nathaniel Bottman). <em>In preparation</em>.
 - The Focus-Focus Addition Graph is Immersed (with Mohammed Abouzaid and Nathaniel Bottman), <a href="https://arxiv.org/abs/2409.10377">arxiv 2409.10377</a>
