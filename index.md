@@ -10,7 +10,7 @@ I am on the job market this fall for postdoctoral positions.
 
 ## Research Interests
 
-I work in symplectic geometry. I am interested in homological mirror symmetry, low-dimensional topology and gauge theory. My current research focuses on building monoidal strucutures on the Fukaya categories through the geometry of Lagrangian fibrations. You can find more details in my research statement (updated Nov 2024).
+I work in symplectic geometry. I am interested in homological mirror symmetry, low-dimensional topology and gauge theory. My current research focuses on building monoidal strucutures on the Fukaya categories through the geometry of Lagrangian fibrations. You can find more details in my [research statement](assets/files/Research_Statement.pdf) (updated Nov 2024).
 
 ## Papers
 - A Monoidal Structure on the Fukaya Category of Elliptic K3s. <em>In preparation</em>.
