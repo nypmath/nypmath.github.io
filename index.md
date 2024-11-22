@@ -14,8 +14,8 @@ I work in symplectic geometry. I am interested in homological mirror symmetry, l
 
 ## Papers
 - A Monoidal Structure on the Fukaya Category of Elliptic K3s. <em>In preparation</em>.
-- A Monoidal Structure on Exact Fukaya Categories (with Mohammed Abouzaid and Nathaniel Bottman). <em>In preparation</em>.
-- The Focus-Focus Addition Graph is Immersed (with Mohammed Abouzaid and Nathaniel Bottman), <a href="https://arxiv.org/abs/2409.10377">arxiv 2409.10377</a>
+- A Monoidal Structure on Exact Fukaya Categories (with <a href="https://mathematics.stanford.edu/people/mohammed-abouzaid">Mohammed Abouzaid</a> and <a href="https://natebottman.github.io/">Nathaniel Bottman</a>). <em>In preparation</em>.
+- The Focus-Focus Addition Graph is Immersed (with <a href="https://mathematics.stanford.edu/people/mohammed-abouzaid">Mohammed Abouzaid</a> and <a href="https://natebottman.github.io/">Nathaniel Bottman</a>), <a href="https://arxiv.org/abs/2409.10377">arxiv 2409.10377</a>
 
 
 
